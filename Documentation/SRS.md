@@ -30,6 +30,8 @@ It will provide an option to select a Specific text to be interpreted by AI or a
 
 ## 2.2.1 Use case diagram
 
+![](./usecase.drawio.png)
+
 # 3. Specific requirements
 
 ## 3.1 Functional requirements
